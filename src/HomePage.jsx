@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
 export default function HomePage() {
   return (
-    <div>
+    <div style={{ color: "white", textAlign: "center", paddingTop: "50px" }}>
       <h1>EasyTools Dashboard</h1>
-      <p>Welcome to the professional tool dashboard.</p>
+      <p>AI tools overzicht volgt hier...</p>
     </div>
   );
 }
